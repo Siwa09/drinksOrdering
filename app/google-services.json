@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "181998293856",
+    "firebase_url": "https://drinksodering-default-rtdb.firebaseio.com",
+    "project_id": "drinksodering",
+    "storage_bucket": "drinksodering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181998293856:android:bd483a7d8a993fbe418405",
+        "android_client_info": {
+          "package_name": "com.bme.drinkordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181998293856-nt38lk65n57n34lomiattjj3nufpd9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kjoN3ldkBQ0e3TP0XT0Dd2p9e45uqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181998293856-nt38lk65n57n34lomiattjj3nufpd9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181998293856:android:6e276aeebb3e3b29418405",
+        "android_client_info": {
+          "package_name": "com.bme.drinksoderingchefend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181998293856-nt38lk65n57n34lomiattjj3nufpd9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kjoN3ldkBQ0e3TP0XT0Dd2p9e45uqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181998293856-nt38lk65n57n34lomiattjj3nufpd9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
